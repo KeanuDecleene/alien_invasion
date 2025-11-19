@@ -1,17 +1,25 @@
 ## Python Crash Course — Alien Invasion
-How to Run
 
-Install Python
-https://python.org
+## Requirements
 
-Install Pygame
+- Python 3.8+
+- Pygame
+  
+## How to Run
 
-pip install pygame
+1. Install Python:  
+   https://python.org
 
-Run the game
+2. Install Pygame:  
+    ```bash
+    pip install pygame
+    ```
 
-## Project Structure
-
+3. Run the game:  
+    ```bash
+    python alien_invasion.py
+    ```
+## Structure
 ```
 alien_invasion/
 │── alien_invasion.py   # Main game file
