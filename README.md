@@ -4,7 +4,7 @@ How to Run
 Install Python
 https://python.org
 
-# Install Pygame
+Install Pygame
 
 pip install pygame
 
