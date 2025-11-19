@@ -1,28 +1,27 @@
-Python Crash Course Alien Invasion Project
+Python Crash Course — Alien Invasion
+How to Run
 
+Install Python
+https://python.org
 
-
-Install Python → https://python.org
-
-Install Pygame:
+Install Pygame
 
 pip install pygame
 
 
-Run the game:
+Run the game
 
 python alien_invasion.py
-
 
 Project Structure
 alien_invasion/
 │── alien_invasion.py   # Main game file
-│── settings.py
-│── ship.py
-│── bullet.py
-│── alien.py
-│── game_stats.py
-│── scoreboard.py
-│── button.py
+│── settings.py         # Game settings
+│── ship.py             # Player ship logic
+│── bullet.py           # Bullet behavior
+│── alien.py            # Alien logic
+│── game_stats.py       # Tracks score & game state
+│── scoreboard.py       # On-screen score display
+│── button.py           # Play button
 │── images/             # Game assets
-└── __pycache__/        
+└── __pycache__/        # Auto-generated
