@@ -1,4 +1,4 @@
-## Python Crash Course — Alien Invasion
+## Python Crash Course - Alien Invasion
 
 ## Requirements
 
